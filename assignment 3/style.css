@@ -1,0 +1,34 @@
+nav,
+footer {
+    background: rgb(212 5 131);
+    color: white;
+    padding: 10px;
+}
+
+ul li:nth-child(odd) {
+    background: #d40583;
+    color: rgb(251, 251, 252);
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.site-title {
+    color: #d40583;
+}
+
+li {
+    padding: 10px;
+    list-style: square;
+    color: black;
+}
+img#my‐image {
+    box-shadow: 3px 2px 6px #d40583;
+    margin: 12px;
+}
+body {
+    font-size: 18px;
+    margin: 0px;
+}
